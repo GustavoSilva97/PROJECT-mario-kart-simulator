@@ -1,4 +1,4 @@
-+# 🏎️ Mario Kart Race Simulator
+# 🏎️ Mario Kart Race Simulator
 
 A fun, turn-based console simulation of a Mario Kart-style race, written entirely in JavaScript! Two characters — Mario and Luigi — face off in a 5-round challenge involving straightaways, curves, and direct confrontations. Dice rolls, character stats, and a bit of luck determine who crosses the finish line victorious.
 
